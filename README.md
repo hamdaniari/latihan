@@ -12,4 +12,5 @@ Let's learn how to use a gitHub
 
 ## Global Development
 1. Open and run tes2.py
+2. Open and run test3.py
 
